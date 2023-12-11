@@ -1,0 +1,41 @@
+
+{
+    "contactSection": {
+      "heading": "Contact Us"
+    },
+    "formFields": [
+      {
+        "placeholder": "Full Name",
+        "type": "text",
+
+        "placeholder_meta": "9",
+        "type_meta": "4"
+      },
+      {
+        "placeholder": "Phone number",
+        "type": "text",
+
+        "placeholder_meta": "12",
+        "type_meta": "4"
+      },
+      {
+        "placeholder": "Email",
+        "type": "email",
+
+        "placeholder_meta": "5",
+        "type_meta": "5"
+      },
+      {
+        "placeholder": "Message",
+        "type": "text",
+        "className": "message-box",
+
+        "placeholder_meta": "7",
+        "type_meta": "4",
+        "className_meta": "11"
+      }
+    ],
+    "sendButton": "SEND NOW",
+    "sendButton_meta": "8"
+  }
+  

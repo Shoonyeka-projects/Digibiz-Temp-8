@@ -1,0 +1,35 @@
+
+{
+    "carouselItems": [
+      {
+        "heading": "Chocolate",
+        "subheading": "Yummy",
+        "readMoreText": "Read More",
+        "arrowImageSrc": "images/white-arrow.png",
+        "bgImageSrc": "images/slider-img.png",
+
+        "heading_meta": "9",
+        "subheading_meta": "5",
+        "readMoreText_meta": "9"
+      },
+      {
+        "heading": "Chocolate",
+        "subheading": "Yummy",
+        "readMoreText": "Read More",
+        "arrowImageSrc": "images/white-arrow.png",
+        "bgImageSrc": "images/slider-img.png",
+
+        "heading_meta": "9",
+        "subheading_meta": "5",
+        "readMoreText_meta": "9"
+      }
+    ],
+    "carouselControlText": {
+      "prev": "Previous",
+      "next": "Next",
+
+      "prev_meta": "8",
+      "next_meta": "4"
+    }
+  }
+  

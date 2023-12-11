@@ -1,0 +1,14 @@
+
+{
+    "aboutSection": {
+      "heading": "About Our Company",
+      "content": "Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.",
+      "readMoreText": "Read More",
+      "arrowImageSrc": "images/color-arrow.png",
+
+      "heading_meta": "17",
+      "content_meta": "264",
+      "readMoreText_meta": "9"
+    }
+  }
+  

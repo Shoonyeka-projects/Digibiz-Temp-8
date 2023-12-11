@@ -1,0 +1,46 @@
+
+{
+    "formSection": {
+      "placeholder": "Enter your email",
+      "buttonIcon": "fa-arrow-right"
+    },
+    "socialSection": {
+      "links": [
+        { "icon": "fa-facebook", "url": "#" },
+        { "icon": "fa-twitter", "url": "#" },
+        { "icon": "fa-linkedin", "url": "#" }
+      ]
+    },
+    "menuSection": {
+      "heading": "Menu",
+      "links": [
+        { "text": "Home", "url": "index.html" },
+        { "text": "About", "url": "about.html" },
+        { "text": "Chocolates", "url": "chocolate.html" },
+        { "text": "Testimonial", "url": "testimonial.html" },
+        { "text": "Contact us", "url": "contact.html" }
+      ]
+    },
+    "instagramSection": {
+      "heading": "Instagram",
+      "images": [
+        { "src": "images/insta-img.png", "description": "long established fact that a reader" }
+      ]
+    },
+    "companySection": {
+      "heading": "Company",
+      "description": "when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to",
+
+      "heading_meta": "7",
+      "description_meta": "134"
+    },
+    "contactSection": {
+      "heading": "Contact Us",
+      "links": [
+        { "icon": "fa-map-marker", "text": "Location", "url": "#" },
+        { "icon": "fa-phone", "text": "Call +01 1234567890", "url": "#" },
+        { "icon": "fa-envelope", "text": "demo@gmail.com", "url": "#" }
+      ]
+    }
+  }
+  

@@ -1,0 +1,38 @@
+
+{
+    "testimonialSection": {
+      "heading": "Testimonial"
+    },
+    "carousel": {
+      "id": "customCarousel2",
+      "items": [
+        {
+          "name": "Gero Miliya",
+          "content": "long established fact that a reader will be distracted by the readable content...",
+          "imagePath": "images/client-img.jpg",
+
+          "name_meta": "11",
+          "content_meta": "81"
+        },
+        {
+            "name": "Gero Miliya1",
+            "content": "long established fact that a reader will be distracted by the readable content...",
+            "imagePath": "images/client-img.jpg",
+
+            "name_meta": "12",
+          "content_meta": "81"
+          }
+      ],
+      "buttons": {
+        "prev": {
+          "icon": "fa-arrow-left",
+          "ariaLabel": "Previous"
+        },
+        "next": {
+          "icon": "fa-arrow-right",
+          "ariaLabel": "Next"
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,20 @@
+
+{
+    "offerSection": {
+      "heading": "Offers on chocolates",
+      "subheading": "Get 5% Offer any Chocolate items",
+      "buyNowText": "Buy Now",
+      "offerLink": "/your-offer-link",
+      "imagePath": "images/offer-img.png",
+
+      "heading_meta": "20",
+      "subheading_meta": "32",
+      "buyNowText_meta": "7"
+    },
+    "seeMoreLink": {
+      "text": "See More",
+      "link": "/your-see-more-link",
+      "arrowImagePath": "images/color-arrow.png"
+    }
+  }
+  

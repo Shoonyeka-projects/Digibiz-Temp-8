@@ -1,0 +1,42 @@
+
+{
+    "chocolateSection": {
+      "heading": "Our chocolate products",
+      "subheading": "Many desktop publishing packages and web pagend web page editors now use Lorem Ipsum as their",
+
+      "heading_meta": "22",
+      "subheading_meta": "93"
+    },
+    "chocolates": [
+      {
+        "imageSrc": "images/chocolate3.png",
+        "title": "Yummy chocolate",
+        "price": "$5.0",
+        "buyNowText": "BUY NOW"
+      },
+      {
+        "imageSrc": "images/chocolate2.png",
+        "title": "Yummy chocolate",
+        "price": "$5.0",
+        "buyNowText": "BUY NOW"
+      },
+      {
+        "imageSrc": "images/chocolate1.png",
+        "title": "Yummy chocolate",
+        "price": "$5.0",
+        "buyNowText": "BUY NOW"
+      },
+      {
+        "imageSrc": "images/chocolate3.png",
+        "title": "Yummy chocolate",
+        "price": "$5.0",
+        "buyNowText": "BUY NOW"
+      },
+   {
+    "title_meta": "15",
+    "price_meta": "4",
+    "buyNowText_meta": "7"
+   }
+    ]
+  }
+  
